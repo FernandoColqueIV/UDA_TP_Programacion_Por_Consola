@@ -263,7 +263,7 @@ void TheGrandVoid(){
 		if (Direccion_Tecla==3){x++;}
 		if (Direccion_Tecla==4){x--;}
 	
-		Sleep(Dificultad_Velocida);
+		//Sleep(Dificultad_Velocida);
 		
 		MensajePerdedor();
 	}
